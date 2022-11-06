@@ -1,0 +1,5 @@
+.vscode/
+*.o
+*build/
+NTP/cmake-build-debug/
+NTP/chrony/
